@@ -1,3 +1,24 @@
-{"prompt": "UgandaEMR User Manual?", "completion": "UgandaEMR is a customization of OpenMRS for Uganda, initially starting with HIV related forms but later expanding to other areas such as Maternal and Child Health services, Tuberculosis treatment following guidelines issued by the Ministry of Health (MoH) under the Health Management Information System (HMIS) manuals."}
-{"prompt": "Minimum Computer Requirements", "completion": "1.Windows 7 (both 32-bit and 64-bit versions supported).2 4GB of RAM 3.5GHz duo core processor"}
-{"prompt": "Recommended Minimum Software Requirements", "completion": "1.Java 8 for UgandaEMR 2.0.0 and above (Java 7 for UgandaEMR 1.x - not recommended). 2 Tomcat 7 3. MySQL 5.5 4. Mozilla Firefox 44"}
+data = [
+    {"prompt": "UgandaEMR User Manual?", "completion": "UgandaEMR is a customization of OpenMRS for Uganda, initially starting with HIV related forms but later expanding to other areas such as Maternal and Child Health services, Tuberculosis treatment following guidelines issued by the Ministry of Health (MoH) under the Health Management Information System (HMIS) manuals."},
+    {"prompt": "Minimum Computer Requirements", "completion": "Windows 7 (both 32-bit and 64-bit versions supported)! 4GB of RAM ! 5GHz duo core processor"},
+    {"prompt": "Recommended Minimum Software Requirements", "completion": "Java 8 for UgandaEMR 2.0.0 and above (Java 7 for UgandaEMR 1.x - not recommended). ! Tomcat 7 3. MySQL 5. ! Mozilla Firefox 44"},
+    {"prompt": r"Installation Directories and Menu Items", "completion": r"The installer creates the following directory structure: ! Main Directory - C:\Program Files\UgandaEMR ! Tomcat Directory - C:\Program Files\UgandaEMR\UgandaEMRTomcat ! Mysql Directory - C:\Program Files\MySQL\MySQL Server 5 ! TODO: Correct this ! After OpenMRS Configuration Files - C:\ApplicationData\OpenMRS TODO: Correct this."}
+    {"prompt": r"UgandaEMR 1.x Installation", "completion": "Launch of the splash screen!License Agreement!Selecting components to install!Determining Installation directory!Confirm start menu item!Install Java Runtime!Install MySQL!Install Tomcat(NOTE: DO NOT CHNAGE THE Java Virtual Machine path PATH):\n- HTTP/1.1 Connector port - 8081\n- Windows Service Name - UgandaEMRTomcat\n- Tomcat administrator login username: root\n- Tomcat administrator login password: openmrs\n9!Install Firefox!Installing HeidiSQL!UgandaEMR Installation completed"},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+    {"prompt": "", "completion": ""},
+]

@@ -3,7 +3,7 @@ from fuzzywuzzy import fuzz
 import json
 
 
-api_key = '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'
+api_key = '*************************************'
 
 
 openai.api_key = api_key
